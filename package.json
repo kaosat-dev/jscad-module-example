@@ -1,0 +1,11 @@
+{
+  "name": "jscad-module-example",
+  "version": "0.0.1",
+  "description": "Example jscad module of parts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark 'kaosat-dev' Moissette",
+  "license": "MIT"
+}
