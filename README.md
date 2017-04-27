@@ -11,16 +11,14 @@
 
 ## Install
 
-Not on npm yet, so just use the github install as follows:
-
 ```
-npm install kaosat-dev/jscad-module-example
+npm install @kaosat-dev/jscad-module-example
 ```
 
 ## Usage
 
 ```javascript
-const {jscadLogo, coneWithCutouts} = require('jscad-module-example')
+const {jscadLogo, coneWithCutouts} = require('@kaosat-dev/jscad-module-example')
 
 const logo1 = jscadLogo()
 const largerLogo = jscadLogo(20)

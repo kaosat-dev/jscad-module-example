@@ -1,5 +1,5 @@
 {
-  "name": "jscad-module-example",
+  "name": "@kaosat-dev/jscad-module-example",
   "version": "0.0.1",
   "description": "Example jscad module of parts",
   "main": "index.js",
