@@ -1,4 +1,4 @@
-const scadApi = require('@jscad/scad-api').default
+const scadApi = require('@jscad/scad-api')
 const {cube, sphere, cylinder} = scadApi.primitives3d
 const {union, difference, intersection} = scadApi.booleanOps
 const {translate} = scadApi.transformations
