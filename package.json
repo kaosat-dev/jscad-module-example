@@ -9,6 +9,6 @@
   "author": "Mark 'kaosat-dev' Moissette",
   "license": "MIT",
   "dependencies": {
-    "@jscad/scad-api": "^0.2.0"
+    "@jscad/scad-api": "latest"
   }
 }
